@@ -43,3 +43,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Acknowledgments
 
 * This project was developed for studies only.
+* [Check this out on Heroku](https://nameless-cove-84723.herokuapp.com/)
